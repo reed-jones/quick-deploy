@@ -1,0 +1,16 @@
+{
+  "name": "deployment",
+  "version": "1.0.0",
+  "description": "An easy way to add github auto-deployments to your VPS",
+  "main": "index.js",
+  "author": "Reed Jones <reedjones@reedjones.com>",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "koa": "^2.8.2",
+    "koa-bodyparser": "^4.2.1"
+  }
+}
