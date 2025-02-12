@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "dotenv": "^8.1.0",
-    "koa": "^2.8.2",
+    "koa": "^2.15.4",
     "koa-bodyparser": "^4.2.1"
   }
 }
